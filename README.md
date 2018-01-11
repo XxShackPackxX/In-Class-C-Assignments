@@ -1,2 +1,2 @@
 # In-Class-C-Assignments
-C++ code completed
+C++ code completed for class
